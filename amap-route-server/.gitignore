@@ -1,1 +1,4 @@
-bm9kZV9tb2R1bGVzLwpuYnVpbGQvCioubG9nCi5lbnYq
+node_modules/
+build/
+*.log
+.env*
